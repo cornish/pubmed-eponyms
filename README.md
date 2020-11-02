@@ -2,12 +2,12 @@
 
 This is a collection of Python scripts for searching pubmed using [BioPython](https://pypi.python.org/pypi/biopython) and working with [eponymous](https://en.wikipedia.org/wiki/Eponym) terms.
 
-This project serves to deposit the code used in the manuscript indicated below. In addition to being of interest to those studying [eponyms](https://en.wikipedia.org/wiki/Eponym) in clinical chemistry and elsewhere, it should also be of general use for anyone looking to develop software for automatically searching Pubmed / Medline. The script `pubmed_search_to_csv.py` provides a good example of how to use [BioPython's](https://pypi.python.org/pypi/biopython) [Entrez.esearch](https://biopython.org/DIST/docs/api/Bio.Entrez-module.html) and [Entrez.efetch](https://biopython.org/DIST/docs/api/Bio.Entrez-module.html) to search Pubmed and return search results even when they exceed the [NCBI's Entrez eutils](https://www.ncbi.nlm.nih.gov/books/NBK25500/) built-in limits. While the [eutils API](https://www.ncbi.nlm.nih.gov/books/NBK25500/) can be used directly, [BioPython](https://pypi.python.org/pypi/biopython) greatly simplifies the tedious aspects of making http requests (such as throttling, re-attempting and error handling) and is highly recommended for this task.
+This project serves to deposit the code used in the manuscript indicated below. In addition to being of interest to those studying medical [eponyms](https://en.wikipedia.org/wiki/Eponym), it should also be of general use for anyone looking to develop software for automatically searching Pubmed / Medline. The script `pubmed_search_to_csv.py` provides a good example of how to use [BioPython's](https://pypi.python.org/pypi/biopython) [Entrez.esearch](https://biopython.org/DIST/docs/api/Bio.Entrez-module.html) and [Entrez.efetch](https://biopython.org/DIST/docs/api/Bio.Entrez-module.html) to search Pubmed and return search results even when they exceed the [NCBI's Entrez eutils](https://www.ncbi.nlm.nih.gov/books/NBK25500/) built-in limits. While the [eutils API](https://www.ncbi.nlm.nih.gov/books/NBK25500/) can be used directly, [BioPython](https://pypi.python.org/pypi/biopython) greatly simplifies the tedious aspects of making http requests (such as throttling, re-attempting and error handling) and is highly recommended for this task.
 
 ## Citing
 In addition to citing this GitHub repository (https://github.com/cornish/pubmed-eponyms), please cite the following paper:
 
-- Eponyms in Clinical Chemistry. Larry J Kricka, Toby C Cornish, and Jason Y Park, In preparation
+- A Biopython-based method for comprehensively searching for eponyms in Pubmed. Toby C. Cornish, Larry J. Kricka, and Jason Y. Park, In preparation
 
 
 ## License
