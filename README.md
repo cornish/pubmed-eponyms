@@ -41,10 +41,13 @@ Gnu Public License v3, see text of the full license in project.
    - See [here](https://ncbiinsights.ncbi.nlm.nih.gov/2017/11/02/new-api-keys-for-the-e-utilities/) for more information about API keys for NCBI's E-utilities
 
 ## Data files:
-1. `323 chemistry eponyms.txt`
-   - This is the original list of terms collected from textbooks and elsewhere 
-2. `323 chemistry eponyms - split - edits - utf8.csv`
-   - This is the original list with terms split into Name(s) and Test fields; multiple name eponyms separated by spaces were converted to separation by hyphens manually to distinguish them from last names with internal spaces (i.e. "Van Slyke")
+1. `gastrointestinal eponyms.txt`
+   - This is the original list of terms collected from review articles:
+     + [Kanne JP, Rohrmann CA, Lichtenstein JE. Eponyms in radiology of the digestive tract: historical perspectives and imaging appearances. Part I. Pharynx, esophagus, stomach, and intestine. Radiographics. 26(1) (2006) 129-42.] (https://doi.org/10.1148/rg.261055084)
+     + [Kanne JP, Rohrmann CA, Lichtenstein JE. Eponyms in radiology of the digestive tract: historical perspectives and imaging appearances. Part 2. Liver, biliary system, pancreas, peritoneum, and systemic disease. Radiographics. 26(2) (2006) 465-80.](https://doi.org/10.1148/rg.262055130)
+
+2. `gi_eponyms_split.csv`
+   - This is the original list with terms split into Name(s) and Term fields; multiple name eponyms should be separated by by hyphens to distinguish them from last names with internal spaces (i.e. "Van Slyke")
    - Input to `rebase_terms.py`
 3. `data/terms_re-base.csv`
    - Output of the `rebase_terms.py` script
