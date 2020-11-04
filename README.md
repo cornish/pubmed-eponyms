@@ -43,7 +43,7 @@ Gnu Public License v3, see text of the full license in project.
 ## Data files:
 1. `gastrointestinal eponyms.txt`
    - This is the original list of terms collected from review articles:
-     + [Kanne JP, Rohrmann CA, Lichtenstein JE. Eponyms in radiology of the digestive tract: historical perspectives and imaging appearances. Part I. Pharynx, esophagus, stomach, and intestine. Radiographics. 26(1) (2006) 129-42.] (https://doi.org/10.1148/rg.261055084)
+     + [Kanne JP, Rohrmann CA, Lichtenstein JE. Eponyms in radiology of the digestive tract: historical perspectives and imaging appearances. Part I. Pharynx, esophagus, stomach, and intestine. Radiographics. 26(1) (2006) 129-42.](https://doi.org/10.1148/rg.261055084) 
      + [Kanne JP, Rohrmann CA, Lichtenstein JE. Eponyms in radiology of the digestive tract: historical perspectives and imaging appearances. Part 2. Liver, biliary system, pancreas, peritoneum, and systemic disease. Radiographics. 26(2) (2006) 465-80.](https://doi.org/10.1148/rg.262055130)
 
 2. `gi_eponyms_split.csv`
