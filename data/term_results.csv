@@ -1,0 +1,117 @@
+base_term,term,field,count,quoted_count,quoted_phrase_found,query_translation
+Zenker Diverticulum,"""Zenker Diverticulum""",title/abstract,159,159,True,"""Zenker Diverticulum""[Title/Abstract]"
+Zenker Diverticulum,"""Zenker's Diverticulum""",title/abstract,755,755,True,"""Zenker's Diverticulum""[Title/Abstract]"
+Zenker Diverticulum,"""Diverticulum of Zenker""",title/abstract,195,0,False,Diverticulum[Title/Abstract] AND Zenker[Title/Abstract]
+Mallory-Weiss Tear,"""Mallory-Weiss Tear""",title/abstract,154,154,True,"""Mallory-Weiss Tear""[Title/Abstract]"
+Mallory-Weiss Tear,"""Mallory Weiss Tear""",title/abstract,154,154,True,"""Mallory Weiss Tear""[Title/Abstract]"
+Mallory-Weiss Tear,"""Mallory and Weiss Tear""",title/abstract,173,0,False,Mallory[Title/Abstract] AND Weiss[Title/Abstract] AND Tear[Title/Abstract]
+Mallory-Weiss Tear,"""Mallory's and Weiss' Tear""",title/abstract,0,0,False,Mallory's[Title/Abstract] AND Weiss'[Title/Abstract] AND Tear[Title/Abstract]
+Mallory-Weiss Tear,"""Mallory's and Weiss's Tear""",title/abstract,0,0,False,Mallory's[Title/Abstract] AND Weiss's[Title/Abstract] AND Tear[Title/Abstract]
+Mallory-Weiss Tear,"""Mallory and Weiss' Tear""",title/abstract,0,0,False,Mallory[Title/Abstract] AND Weiss'[Title/Abstract] AND Tear[Title/Abstract]
+Mallory-Weiss Tear,"""Mallory Weiss' Tear""",title/abstract,0,0,False,Mallory[Title/Abstract] AND Weiss'[Title/Abstract] AND Tear[Title/Abstract]
+Mallory-Weiss Tear,"""Mallory-Weiss' Tear""",title/abstract,33071,0,False,Tear[Title/Abstract]
+Mallory-Weiss Tear,"""Mallory and Weiss's Tear""",title/abstract,0,0,False,Mallory[Title/Abstract] AND Weiss's[Title/Abstract] AND Tear[Title/Abstract]
+Mallory-Weiss Tear,"""Mallory Weiss's Tear""",title/abstract,0,0,False,Mallory[Title/Abstract] AND Weiss's[Title/Abstract] AND Tear[Title/Abstract]
+Mallory-Weiss Tear,"""Mallory-Weiss's Tear""",title/abstract,0,0,False,Mallory-Weiss's[Title/Abstract] AND Tear[Title/Abstract]
+Mallory-Weiss Tear,"""Tear of Mallory and Weiss""",title/abstract,173,0,False,Tear[Title/Abstract] AND Mallory[Title/Abstract] AND Weiss[Title/Abstract]
+Mallory-Weiss Tear,"""Tear of Mallory Weiss""",title/abstract,173,0,False,Tear[Title/Abstract] AND Mallory[Title/Abstract] AND Weiss[Title/Abstract]
+Mallory-Weiss Tear,"""Tear of Mallory-Weiss""",title/abstract,173,0,False,Tear[Title/Abstract] AND Mallory-Weiss[Title/Abstract]
+Boerhaave Syndrome,"""Boerhaave Syndrome""",title/abstract,258,258,True,"""Boerhaave Syndrome""[Title/Abstract]"
+Boerhaave Syndrome,"""Boerhaave's Syndrome""",title/abstract,484,484,True,"""Boerhaave's Syndrome""[Title/Abstract]"
+Boerhaave Syndrome,"""Syndrome of Boerhaave""",title/abstract,278,0,False,Syndrome[Title/Abstract] AND Boerhaave[Title/Abstract]
+Schatzki Ring,"""Schatzki Ring""",title/abstract,49,49,True,"""Schatzki Ring""[Title/Abstract]"
+Schatzki Ring,"""Schatzki's Ring""",title/abstract,77,77,True,"""Schatzki's Ring""[Title/Abstract]"
+Schatzki Ring,"""Ring of Schatzki""",title/abstract,58,0,False,Ring[Title/Abstract] AND Schatzki[Title/Abstract]
+Barrett Esophagus,"""Barrett Esophagus""",title/abstract,915,915,True,"""Barrett Esophagus""[Title/Abstract]"
+Barrett Esophagus,"""Barrett's Esophagus""",title/abstract,6427,6427,True,"""Barrett's Esophagus""[Title/Abstract]"
+Barrett Esophagus,"""Esophagus of Barrett""",title/abstract,1125,0,False,Esophagus[Title/Abstract] AND Barrett[Title/Abstract]
+Zollinger-Ellison Syndrome,"""Zollinger-Ellison Syndrome""",title/abstract,2225,2225,True,"""Zollinger-Ellison Syndrome""[Title/Abstract]"
+Zollinger-Ellison Syndrome,"""Zollinger Ellison Syndrome""",title/abstract,2225,2225,True,"""Zollinger Ellison Syndrome""[Title/Abstract]"
+Zollinger-Ellison Syndrome,"""Zollinger and Ellison Syndrome""",title/abstract,2263,0,False,Zollinger[Title/Abstract] AND Ellison[Title/Abstract] AND Syndrome[Title/Abstract]
+Zollinger-Ellison Syndrome,"""Zollinger's and Ellison's Syndrome""",title/abstract,0,0,False,Zollinger's[Title/Abstract] AND Ellison's[Title/Abstract] AND Syndrome[Title/Abstract]
+Zollinger-Ellison Syndrome,"""Zollinger and Ellison's Syndrome""",title/abstract,19,0,False,Zollinger[Title/Abstract] AND Ellison's[Title/Abstract] AND Syndrome[Title/Abstract]
+Zollinger-Ellison Syndrome,"""Zollinger Ellison's Syndrome""",title/abstract,19,19,True,"""Zollinger Ellison's Syndrome""[Title/Abstract]"
+Zollinger-Ellison Syndrome,"""Zollinger-Ellison's Syndrome""",title/abstract,19,19,True,"""Zollinger-Ellison's Syndrome""[Title/Abstract]"
+Zollinger-Ellison Syndrome,"""Syndrome of Zollinger and Ellison""",title/abstract,2263,0,False,Syndrome[Title/Abstract] AND Zollinger[Title/Abstract] AND Ellison[Title/Abstract]
+Zollinger-Ellison Syndrome,"""Syndrome of Zollinger Ellison""",title/abstract,2263,0,False,Syndrome[Title/Abstract] AND Zollinger[Title/Abstract] AND Ellison[Title/Abstract]
+Zollinger-Ellison Syndrome,"""Syndrome of Zollinger-Ellison""",title/abstract,2253,0,False,Syndrome[Title/Abstract] AND Zollinger-Ellison[Title/Abstract]
+Menetrier Disease,"""Menetrier Disease""",title/abstract,95,95,True,"""Menetrier Disease""[Title/Abstract]"
+Menetrier Disease,"""Menetrier's Disease""",title/abstract,514,514,True,"""Menetrier's Disease""[Title/Abstract]"
+Menetrier Disease,"""Disease of Menetrier""",title/abstract,108,0,False,Disease[Title/Abstract] AND Menetrier[Title/Abstract]
+Carman Meniscus Sign,"""Carman Meniscus Sign""",title/abstract,1,0,False,Carman[Title/Abstract] AND Meniscus[Title/Abstract] AND Sign[Title/Abstract]
+Carman Meniscus Sign,"""Carman's Meniscus Sign""",title/abstract,1,0,False,Carman's[Title/Abstract] AND Meniscus[Title/Abstract] AND Sign[Title/Abstract]
+Carman Meniscus Sign,"""Meniscus Sign of Carman""",title/abstract,1,0,False,Meniscus[Title/Abstract] AND Sign[Title/Abstract] AND Carman[Title/Abstract]
+Meckel Diverticulum,"""Meckel Diverticulum""",title/abstract,332,332,True,"""Meckel Diverticulum""[Title/Abstract]"
+Meckel Diverticulum,"""Meckel's Diverticulum""",title/abstract,3527,3527,True,"""Meckel's Diverticulum""[Title/Abstract]"
+Meckel Diverticulum,"""Diverticulum of Meckel""",title/abstract,4,4,True,"""Diverticulum of Meckel""[Title/Abstract]"
+Hirschsprung Disease,"""Hirschsprung Disease""",title/abstract,1652,1652,True,"""Hirschsprung Disease""[Title/Abstract]"
+Hirschsprung Disease,"""Hirschsprung's Disease""",title/abstract,3731,3731,True,"""Hirschsprung's Disease""[Title/Abstract]"
+Hirschsprung Disease,"""Disease of Hirschsprung""",title/abstract,1764,0,False,Disease[Title/Abstract] AND Hirschsprung[Title/Abstract]
+Lieberkuhn Crypts,"""Lieberkuhn Crypts""",title/abstract,19,19,True,"""Lieberkuhn Crypts""[Title/Abstract]"
+Lieberkuhn Crypts,"""Lieberkuhn's Crypts""",title/abstract,24,24,True,"""Lieberkuhn's Crypts""[Title/Abstract]"
+Lieberkuhn Crypts,"""Crypts of Lieberkuhn""",title/abstract,252,252,True,"""Crypts of Lieberkuhn""[Title/Abstract]"
+Escherichia coli,"""Escherichia coli""",title/abstract,273692,273692,True,"""Escherichia coli""[Title/Abstract]"
+Caroli Disease,"""Caroli Disease""",title/abstract,153,153,True,"""Caroli Disease""[Title/Abstract]"
+Caroli Disease,"""Caroli's Disease""",title/abstract,552,552,True,"""Caroli's Disease""[Title/Abstract]"
+Caroli Disease,"""Disease of Caroli""",title/abstract,215,0,False,Disease[Title/Abstract] AND Caroli[Title/Abstract]
+Klatskin Tumor,"""Klatskin Tumor""",title/abstract,299,299,True,"""Klatskin Tumor""[Title/Abstract]"
+Klatskin Tumor,"""Klatskin's Tumor""",title/abstract,54,54,True,"""Klatskin's Tumor""[Title/Abstract]"
+Klatskin Tumor,"""Tumor of Klatskin""",title/abstract,352,0,False,Tumor[Title/Abstract] AND Klatskin[Title/Abstract]
+Heister Spiral Valves,"""Heister Spiral Valves""",title/abstract,5,0,False,Heister[Title/Abstract] AND Spiral[Title/Abstract] AND Valves[Title/Abstract]
+Heister Spiral Valves,"""Heister's Spiral Valves""",title/abstract,1,0,False,Heister's[Title/Abstract] AND Spiral[Title/Abstract] AND Valves[Title/Abstract]
+Heister Spiral Valves,"""Spiral Valves of Heister""",title/abstract,5,0,False,Spiral[Title/Abstract] AND Valves[Title/Abstract] AND Heister[Title/Abstract]
+Rokitansky-Aschoff Sinuses,"""Rokitansky-Aschoff Sinuses""",title/abstract,102,102,True,"""Rokitansky-Aschoff Sinuses""[Title/Abstract]"
+Rokitansky-Aschoff Sinuses,"""Rokitansky Aschoff Sinuses""",title/abstract,102,102,True,"""Rokitansky Aschoff Sinuses""[Title/Abstract]"
+Rokitansky-Aschoff Sinuses,"""Rokitansky and Aschoff Sinuses""",title/abstract,107,0,False,Rokitansky[Title/Abstract] AND Aschoff[Title/Abstract] AND Sinuses[Title/Abstract]
+Rokitansky-Aschoff Sinuses,"""Rokitansky's and Aschoff's Sinuses""",title/abstract,0,0,False,Rokitansky's[Title/Abstract] AND Aschoff's[Title/Abstract] AND Sinuses[Title/Abstract]
+Rokitansky-Aschoff Sinuses,"""Rokitansky and Aschoff's Sinuses""",title/abstract,4,0,False,Rokitansky[Title/Abstract] AND Aschoff's[Title/Abstract] AND Sinuses[Title/Abstract]
+Rokitansky-Aschoff Sinuses,"""Rokitansky Aschoff's Sinuses""",title/abstract,4,4,True,"""Rokitansky Aschoff's Sinuses""[Title/Abstract]"
+Rokitansky-Aschoff Sinuses,"""Rokitansky-Aschoff's Sinuses""",title/abstract,4,4,True,"""Rokitansky-Aschoff's Sinuses""[Title/Abstract]"
+Rokitansky-Aschoff Sinuses,"""Sinuses of Rokitansky and Aschoff""",title/abstract,107,0,False,Sinuses[Title/Abstract] AND Rokitansky[Title/Abstract] AND Aschoff[Title/Abstract]
+Rokitansky-Aschoff Sinuses,"""Sinuses of Rokitansky Aschoff""",title/abstract,107,0,False,Sinuses[Title/Abstract] AND Rokitansky[Title/Abstract] AND Aschoff[Title/Abstract]
+Rokitansky-Aschoff Sinuses,"""Sinuses of Rokitansky-Aschoff""",title/abstract,103,0,False,Sinuses[Title/Abstract] AND Rokitansky-Aschoff[Title/Abstract]
+Oddi Sphincter,"""Oddi Sphincter""",title/abstract,73,73,True,"""Oddi Sphincter""[Title/Abstract]"
+Oddi Sphincter,"""Oddi's Sphincter""",title/abstract,438,438,True,"""Oddi's Sphincter""[Title/Abstract]"
+Oddi Sphincter,"""Sphincter of Oddi""",title/abstract,1929,1929,True,"""Sphincter of Oddi""[Title/Abstract]"
+Vater Ampulla,"""Vater Ampulla""",title/abstract,14,14,True,"""Vater Ampulla""[Title/Abstract]"
+Vater Ampulla,"""Vater's Ampulla""",title/abstract,785,785,True,"""Vater's Ampulla""[Title/Abstract]"
+Vater Ampulla,"""Ampulla of Vater""",title/abstract,1903,1903,True,"""Ampulla of Vater""[Title/Abstract]"
+Wirsung Duct,"""Wirsung Duct""",title/abstract,145,145,True,"""Wirsung Duct""[Title/Abstract]"
+Wirsung Duct,"""Wirsung's Duct""",title/abstract,191,191,True,"""Wirsung's Duct""[Title/Abstract]"
+Wirsung Duct,"""Duct of Wirsung""",title/abstract,115,115,True,"""Duct of Wirsung""[Title/Abstract]"
+Santorini Duct,"""Santorini Duct""",title/abstract,30,30,True,"""Santorini Duct""[Title/Abstract]"
+Santorini Duct,"""Santorini's Duct""",title/abstract,41,41,True,"""Santorini's Duct""[Title/Abstract]"
+Santorini Duct,"""Duct of Santorini""",title/abstract,62,62,True,"""Duct of Santorini""[Title/Abstract]"
+Rigler Sign,"""Rigler Sign""",title/abstract,10,10,True,"""Rigler Sign""[Title/Abstract]"
+Rigler Sign,"""Rigler's Sign""",title/abstract,7,7,True,"""Rigler's Sign""[Title/Abstract]"
+Rigler Sign,"""Sign of Rigler""",title/abstract,13,0,False,Sign[Title/Abstract] AND Rigler[Title/Abstract]
+Crohn Disease,"""Crohn Disease""",title/abstract,4494,4494,True,"""Crohn Disease""[Title/Abstract]"
+Crohn Disease,"""Crohn's Disease""",title/abstract,43336,43336,True,"""Crohn's Disease""[Title/Abstract]"
+Crohn Disease,"""Disease of Crohn""",title/abstract,5134,0,False,Disease[Title/Abstract] AND Crohn[Title/Abstract]
+Whipple Disease,"""Whipple Disease""",title/abstract,235,235,True,"""Whipple Disease""[Title/Abstract]"
+Whipple Disease,"""Whipple's Disease""",title/abstract,1605,1605,True,"""Whipple's Disease""[Title/Abstract]"
+Whipple Disease,"""Disease of Whipple""",title/abstract,706,0,False,Disease[Title/Abstract] AND Whipple[Title/Abstract]
+Behcet Disease,"""Behcet Disease""",title/abstract,1537,1537,True,"""Behcet Disease""[Title/Abstract]"
+Behcet Disease,"""Behcet's Disease""",title/abstract,7676,7676,True,"""Behcet's Disease""[Title/Abstract]"
+Behcet Disease,"""Disease of Behcet""",title/abstract,2048,0,False,Disease[Title/Abstract] AND Behcet[Title/Abstract]
+Peutz-Jeghers Syndrome,"""Peutz-Jeghers Syndrome""",title/abstract,1857,1857,True,"""Peutz-Jeghers Syndrome""[Title/Abstract]"
+Peutz-Jeghers Syndrome,"""Peutz Jeghers Syndrome""",title/abstract,1857,1857,True,"""Peutz Jeghers Syndrome""[Title/Abstract]"
+Peutz-Jeghers Syndrome,"""Peutz and Jeghers Syndrome""",title/abstract,1949,0,False,Peutz[Title/Abstract] AND Jeghers[Title/Abstract] AND Syndrome[Title/Abstract]
+Peutz-Jeghers Syndrome,"""Peutz's and Jeghers' Syndrome""",title/abstract,0,0,False,Peutz's[Title/Abstract] AND Jeghers'[Title/Abstract] AND Syndrome[Title/Abstract]
+Peutz-Jeghers Syndrome,"""Peutz's and Jeghers's Syndrome""",title/abstract,0,0,False,Peutz's[Title/Abstract] AND Jeghers's[Title/Abstract] AND Syndrome[Title/Abstract]
+Peutz-Jeghers Syndrome,"""Peutz and Jeghers' Syndrome""",title/abstract,34,0,False,Peutz[Title/Abstract] AND Jeghers'[Title/Abstract] AND Syndrome[Title/Abstract]
+Peutz-Jeghers Syndrome,"""Peutz Jeghers' Syndrome""",title/abstract,32,32,True,"""Peutz Jeghers' Syndrome""[Title/Abstract]"
+Peutz-Jeghers Syndrome,"""Peutz-Jeghers' Syndrome""",title/abstract,32,32,True,"""Peutz-Jeghers' Syndrome""[Title/Abstract]"
+Peutz-Jeghers Syndrome,"""Peutz and Jeghers's Syndrome""",title/abstract,3,0,False,Peutz[Title/Abstract] AND Jeghers's[Title/Abstract] AND Syndrome[Title/Abstract]
+Peutz-Jeghers Syndrome,"""Peutz Jeghers's Syndrome""",title/abstract,3,0,False,Peutz[Title/Abstract] AND Jeghers's[Title/Abstract] AND Syndrome[Title/Abstract]
+Peutz-Jeghers Syndrome,"""Peutz-Jeghers's Syndrome""",title/abstract,1,0,False,Peutz-Jeghers's[Title/Abstract] AND Syndrome[Title/Abstract]
+Peutz-Jeghers Syndrome,"""Syndrome of Peutz and Jeghers""",title/abstract,1949,0,False,Syndrome[Title/Abstract] AND Peutz[Title/Abstract] AND Jeghers[Title/Abstract]
+Peutz-Jeghers Syndrome,"""Syndrome of Peutz Jeghers""",title/abstract,1949,0,False,Syndrome[Title/Abstract] AND Peutz[Title/Abstract] AND Jeghers[Title/Abstract]
+Peutz-Jeghers Syndrome,"""Syndrome of Peutz-Jeghers""",title/abstract,1929,0,False,Syndrome[Title/Abstract] AND Peutz-Jeghers[Title/Abstract]
+Kaposi Sarcoma,"""Kaposi Sarcoma""",title/abstract,3036,3036,True,"""Kaposi Sarcoma""[Title/Abstract]"
+Kaposi Sarcoma,"""Kaposi's Sarcoma""",title/abstract,10701,10701,True,"""Kaposi's Sarcoma""[Title/Abstract]"
+Kaposi Sarcoma,"""Sarcoma of Kaposi""",title/abstract,3266,0,False,Sarcoma[Title/Abstract] AND Kaposi[Title/Abstract]
+Chagas Disease,"""Chagas Disease""",title/abstract,11996,11996,True,"""Chagas Disease""[Title/Abstract]"
+Chagas Disease,"""Chagas' Disease""",title/abstract,4773,4773,True,"""Chagas' Disease""[Title/Abstract]"
+Chagas Disease,"""Chagas's Disease""",title/abstract,99,99,True,"""Chagas's Disease""[Title/Abstract]"
+Chagas Disease,"""Disease of Chagas""",title/abstract,12404,0,False,Disease[Title/Abstract] AND Chagas[Title/Abstract]
