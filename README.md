@@ -32,7 +32,7 @@ Gnu Public License v3, see text of the full license in project.
 
 ### An example of the term permutations created by permute_terms.py for terms with zero, one, two and three separate names.
 
-<img src="https://github.com/cornish/pubmed-eponyms/blob/main/data%20flow%20diagram/permutations.png" height="100" />
+<img src="https://github.com/cornish/pubmed-eponyms/blob/main/data%20flow%20diagram/permutations.png" height="400" />
 
 ![](https://github.com/cornish/pubmed-eponyms/blob/main/data%20flow%20diagram/permutations.png)
 
