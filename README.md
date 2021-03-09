@@ -7,8 +7,7 @@ This project serves to deposit the code used in the manuscript indicated below. 
 ## Citing
 In addition to citing this GitHub repository (https://github.com/cornish/pubmed-eponyms), please cite the following paper:
 
-- A Biopython-based method for comprehensively searching for eponyms in Pubmed. Toby C. Cornish, Larry J. Kricka, and Jason Y. Park, In preparation
-
+- Toby C. Cornish, Larry J. Kricka, and Jason Y. Park. A Biopython-based method for comprehensively searching for eponyms in Pubmed. *MethodsX*. 2021; vol 8. [doi: 10.1016/j.mex.2021.101264](https://doi.org/10.1016/j.mex.2021.101264).
 
 ## License
 Gnu Public License v3, see text of the full license in project.
